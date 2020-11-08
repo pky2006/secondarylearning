@@ -1,9 +1,9 @@
 # Table of contents
 
-* [主页](README.md)
+* [香港中学学习材料](README.md)
 * [目录](shou-ye.md)
 
-## 中一
+## 中二
 
-* [中一中文笔记](zhong-yi/zhong-yi-zhong-wen-bi-ji.md)
+* [IH](zhong-er/ih.md)
 
